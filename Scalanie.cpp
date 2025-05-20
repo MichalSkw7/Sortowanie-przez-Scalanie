@@ -1,3 +1,4 @@
+// KOD NA Metode połowienia przedziałów POMYŁKA W NAZWIE 
 #include <iostream>
 #include <cmath>
 
